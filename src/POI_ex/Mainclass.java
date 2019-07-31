@@ -39,6 +39,8 @@ public class Mainclass {
 		}
 		else
 			System.out.println("No such operations ");
+			just_test j = new just_test();
+			j.just();
 		}
 	}
 }
